@@ -52,7 +52,7 @@
 - Functions: Simplified complex calculations and aggregated data insights.
 - Pivot Tables: Visualized transaction trends effectively.
 
-## 📖 Learnings and Insights
+## Learnings and Insights
 
 #### This case study helped in mastering SQL operations like:
 - Query optimization.
